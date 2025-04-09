@@ -62,5 +62,15 @@ Outside of coding, I’m diving into the world of **video editing** and building
 
 ---
 
+## 📊 GitHub Stats
+
+![Amirali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+
+## 🏆 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical)
+
+---
+
 Thanks for stopping by! 🙌  
 Feel free to check out my repositories or reach out for collaboration.
