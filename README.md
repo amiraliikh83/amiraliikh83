@@ -35,7 +35,6 @@ I follow best practices such as **Domain-Driven Design (DDD)** and **CQRS archit
 
 ## 📦 Projects
 
-- 🔧 **Vendor** — A [project name here] focused on [brief description or link].  
 - 🌐 **Microservice APIs** — Built as part of [freeCodeCamp] certification using Node.js, Express, and MongoDB.  
 - 💼 Currently working on a side project using **NestJS + MongoDB** with a friend.  
 
